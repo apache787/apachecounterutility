@@ -5,9 +5,10 @@
  This program was written fast, probably could use some code organization, and not really optimized at all.
 
 # Installation
- 1) Download the utility to a folder that is accessible and easily found.  Recommended to place it in its own folder.
- 2) Run the utility once in order to generate the default config file and text counter files
+ 1) Download the utility to a folder that is accessible and easily found from the [Releases page](https://github.com/apache787/apachecounterutility/releases).  Recommended to place it in its own folder.
+ 2) Run the utility once in order to generate the default config file and text counter files.  Initially, quit is bound to `Ctrl+Alt+Q`
  3) Edit the counters.cfg file in your favorite text editor.
+ 4) In OBS, add a Text source, and use the "Read From File" option, and add the corresponding counter's text file.
 
  # Example Configuration
  This is an example configuration:
